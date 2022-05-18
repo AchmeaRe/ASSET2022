@@ -11,6 +11,10 @@ Available files:
 
 Asset_Bedrijvendag2022_Theory_AchmeaRe - provides you with an overview of 2 methods used to determine the expected gross loss for a reinsurer
 
+Data_Case_Asset_Bedrijvendag2022
+
+
+
 
 
 
