@@ -5,10 +5,5 @@ The business case is about the pricing of a catastrophe reinsurance contract.
 Some simple quantification techniques are introduced, after which the students will be calculating the price themselves (in groups). 
 At the end of the business case the prices will be compared to the actual market price.
 
+![Slide 1](case.png)
 
-<!---
-AchmeaRe/AchmeaRe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
---->
