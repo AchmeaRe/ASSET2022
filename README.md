@@ -9,11 +9,13 @@ At the end of the business case the prices will be compared to the actual market
 
 ## Available files:
 
-**Asset_Bedrijvendag2022_Theory_AchmeaRe** - *provides you with an overview of 2 methods used to determine the expected gross loss for a reinsurer*
+**20220519 information case.xlsx** - *An Excel file with available data*
+
+**Asset_Bedrijvendag2022_Theory_AchmeaRe** - *This file provides an overview of 2 methods used to determine the expected gross loss for a reinsurer*
 
 **Data_Case_Asset_Bedrijvendag2022.pdf** - *The available data, paper format*
 
-**20220519 information case.xlsx** - *Excel file with available data*
+
 
 
 
