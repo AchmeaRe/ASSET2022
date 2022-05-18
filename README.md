@@ -7,3 +7,10 @@ At the end of the business case the prices will be compared to the actual market
 
 ![Slide 1](case.png)
 
+Available files:
+
+Asset_Bedrijvendag2022_Theory_AchmeaRe - provides you with an overview of 2 methods used to determine the expected gross loss for a reinsurer
+
+
+
+
